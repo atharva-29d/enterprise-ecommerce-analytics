@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data folders
+brazilian-ecommerce/
+
+# Generated CSV outputs
+final_merged_data.csv
+rfm_segmented_customers.csv
+sales_forecast_90days.csv
+
+# Trained models
+*.pkl
+
+# OS / IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
